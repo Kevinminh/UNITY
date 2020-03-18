@@ -67,7 +67,6 @@
     <Compile Include="Assets\Fantasy Skybox FREE\Demo\Scripts\GE_FantasySkyboxFREE_UIs.cs" />
     <Compile Include="Assets\GE Common Assets\GE Toggle Full Screen\Scripts\GE_ToggleFullScreenUI.cs" />
     <Compile Include="Assets\GE Common Assets\Scripts\GE_UIResponder.cs" />
-    <Compile Include="Assets\PlayerSetup.cs" />
     <Compile Include="Assets\Scripts\Bullet.cs" />
     <Compile Include="Assets\Scripts\BulletBounderies.cs" />
     <Compile Include="Assets\Scripts\EnemyMovement.cs" />
@@ -76,6 +75,7 @@
     <Compile Include="Assets\Scripts\PlayerMotor.cs" />
     <Compile Include="Assets\Scripts\PlayerMove1.cs" />
     <Compile Include="Assets\Scripts\PlayerMovement.cs" />
+    <Compile Include="Assets\Scripts\PlayerSetup.cs" />
     <Compile Include="Assets\Scripts\SpawnManager.cs" />
     <None Include="Assets\Fantasy Skybox FREE\Readme.txt" />
     <None Include="Assets\Fantasy Skybox FREE\Fog and Ambient references.txt" />
